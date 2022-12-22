@@ -37,6 +37,9 @@ const Navbar = () => (
         Book A Table
       </a>
     </div>
+    <div className="app__navbar-smallscreen">
+      <GiHamburgerMenu />
+    </div>
   </nav>
 );
 
