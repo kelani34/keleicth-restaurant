@@ -28,6 +28,7 @@ const Navbar = () => (
         <a href="#contact">Contact</a>
       </li>
     </ul>
+    <div className="app__navbar-login"></div>
   </nav>
 );
 
